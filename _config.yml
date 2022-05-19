@@ -78,3 +78,8 @@ marked:
   breaks: false 
   smartLists: true
   smartypants: tru
+
+deploy:
+  type: git
+  repo: git@github.com:onlytiancai/onlytiancai.github.io.git  
+  branch: master 
