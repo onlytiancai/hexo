@@ -70,16 +70,30 @@ feed:
   path: atom.xml
   limit: 20
 
-marked:
-  gfm: true 
-  pedantic: false
-  sanitize: false
-  tables: true
-  breaks: false 
-  smartLists: true
-  smartypants: tru
-
 deploy:
   type: git
   repo: git@github.com:onlytiancai/onlytiancai.github.io.git  
   branch: master 
+
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    langPrefix: 'language-'
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: true 
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
