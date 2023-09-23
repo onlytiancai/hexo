@@ -145,3 +145,63 @@ tags:
 - Thank you for having us. We had a good time.
 - Any time.
 - I had some friends over last night.
+
+13 压力大，工作忙
+
+- How's it going?
+- I'm very busy with work these days.
+- Then why don't you take a few days off?
+- be in the middle of (doing) sth.
+- I'm in middle of a big project.
+- I'm in middle of my new business.
+- How is school?
+- I can never finish my homework.
+- Oh, relax! Everything will be ok.
+- be working on (doing) sth.
+- I'm woking on my homework/speech/essay.
+- I'm working on making new firends.
+- I'm under a lot of pressure right now.
+- Don't let it get top of you.
+
+14 失恋了，不开心
+
+- What's the matter, Joanna? Why the long face?
+- It's difficult to explain. I just feel so sad.
+- Try me. It's not as sad as you think. 
+- You know, my boyfirend broke up with me. I can't get over him.
+- America is not as good as you think.
+- break up with sb.
+- divorce sb.
+- Move on! You need get over your ex!
+- Maybe tomorrow will be different.
+- Yes, maybe I should try starting to date someone new.
+- I'm dating my frend's brother.
+
+15 你俩很熟吗
+
+- Do you know that girl?
+    - Are you familiar with someone? // 慎用，这样问可能是窥探人家的隐私
+    - I thought hew was a bit familiar with my wife. // 我觉得他和我老婆有一点太随便了
+    - Do you know someone well? // 应该这样问
+- The tall one?
+- No, not that one. The one in jacket, with long hair.
+    - blond(blonde) 金黄色
+    - brown 棕色的
+    - chestnut 栗色的
+    - the gril with brown hair
+- She's Ann. She works with Max.
+- She's cute.
+- And she's smart. She graduated from Stanford.
+    - She graduated from colleage tow years ago.
+
+16 介绍朋友
+
+- Can I introduce you to my friend, Jane?
+- Hi, Jane! I'm Will. Haven't we met before?
+- Will, meet my frend Jane.
+- Jane, this is Will, my work firend.
+- I'd like you to meet my friend, Jane.
+- Hi Jane, It's pleasure to meet you!
+- I think you guys might hit it off.
+    - We hit it off with each other as soon as we meet.
+- We sure did!
