@@ -205,3 +205,44 @@ tags:
 - I think you guys might hit it off.
     - We hit it off with each other as soon as we meet.
 - We sure did!
+
+17 搭讪金句
+
+- You are a friend of Jenny's right?
+- Yes, I am. Did I see you before?
+- I'm afraid you've got the wrong person. 
+- I'm so sorry, my brain is not kicking into gear. 
+- Please remind me about your name.
+- I feel like I know you from somewhere.
+- I know your face, but I can't put a name to it.
+
+18 和老外聊天
+
+- Where are you from? 你来自于哪里？
+    - Where are you coming from? 你刚才从哪里来？
+- I'm from the States.
+    - I'm originally from Oslo, Norway, but I live in Chicago.
+- Are you from Washington?
+- No. I'm  from California.
+- I heard that California is known for its beaches, sunshine and year round great weather.
+- I've been to Los Angeles.
+- First time in Bejing?
+- Actually I first came here in 2012.
+    - This is the first/second/third time I've been here.
+- What do you think is the most famous place in Beijing?
+
+18 马上能用到的聊天技巧
+
+- Where did you grow up?
+- I was born in Beijing and brought up in Shanghai.
+    - I was born and brought up in Beijing, 
+      but I moved to Shanghai with my parents 5 years ago.
+- How long have you been here?
+    - How long have you worked here?
+    - How long have you been single?
+- I've been here for 5 years.
+- How do you like it here so far?
+    - How do you like the weather?
+    - I wish it would stop raining.
+    - I prefer it warmer.
+- I like the food and the secnic spots here.
