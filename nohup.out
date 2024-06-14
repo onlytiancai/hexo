@@ -1,0 +1,19 @@
+INFO  Start processing
+Version 9 of Highlight.js has reached EOL and is no longer supported.
+Please upgrade or ask whatever dependency you are using to upgrade.
+https://github.com/highlightjs/highlight.js/issues/2877
+INFO  Bye!
+INFO  Bye!
+FATAL Port 4000 has been used. Try other port instead.
+FATAL Something's wrong. Maybe you can find the solution here: https://hexo.io/docs/troubleshooting.html
+Error: listen EADDRINUSE: address already in use 0.0.0.0:4000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at doListen (net.js:1501:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+INFO  Start processing
+Version 9 of Highlight.js has reached EOL and is no longer supported.
+Please upgrade or ask whatever dependency you are using to upgrade.
+https://github.com/highlightjs/highlight.js/issues/2877
+INFO  Good bye
+INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
