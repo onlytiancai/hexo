@@ -1,5 +1,6 @@
 cmd
-    nvm use v12.22.12
+    export PATH="/home/ubuntu/download/node-v12.22.12-linux-x64/bin:$PATH"
+
     hexo new 202302
     rm ~/blog.md -i
     ln -s ~/src/hexo/source/_posts/202302.md  ~/blog.md

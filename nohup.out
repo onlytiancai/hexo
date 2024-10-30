@@ -17,3 +17,9 @@ Please upgrade or ask whatever dependency you are using to upgrade.
 https://github.com/highlightjs/highlight.js/issues/2877
 INFO  Good bye
 INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
+INFO  Start processing
+Version 9 of Highlight.js has reached EOL and is no longer supported.
+Please upgrade or ask whatever dependency you are using to upgrade.
+https://github.com/highlightjs/highlight.js/issues/2877
+INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
+INFO  Good bye
